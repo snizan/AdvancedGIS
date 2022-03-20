@@ -9,7 +9,7 @@ In my free time, I knit, watch the Tampa Bay Lightning, and cuddle with my cat, 
 
 
 # What I hope to learn
-I'm hoping to learn several things including strategies on making political borders during reapportionment years after the decennial census, and making low-cost or free customaizable and interative maps for organizations. 
+I'm hoping to learn how to draw borders for political maps, especially after the decennial census. Additionally, I am interested in manipulating political district maps to find patterns in voter turnout based on demographics and geography, and creating free, interactive, and custom maps. Not only will these skills allow me to better serve my clients, they are useful and transferrable skills.
 
 # Porfolio
 
