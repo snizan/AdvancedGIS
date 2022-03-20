@@ -1,5 +1,5 @@
 # Advanced GIS in class
-In class demos for Advanced GIS spring 2022, mini 4
+In-class demo and homework assignments for Advanced GIS, Spring 2022 Mini 4
 https://snizan.github.io/AdvancedGIS_inclass/
 
 ## SummerFest Map from 3/16
