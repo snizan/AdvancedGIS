@@ -1,3 +1,6 @@
+## Insights 3/21
+<iframe src="https://insights.arcgis.com/#/embed/6bc94147cded4480acffd6b190e0d8e5" width="100%" height="100%" frameborder="0"></iframe>
+
 ## Custom Basemap Demo 3/16
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
