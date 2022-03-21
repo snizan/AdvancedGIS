@@ -6,16 +6,29 @@ SisTersPGH is a non-profit organization based in Swissvale, Pennsylvania. The or
 ### SisTersPGH People's Pride 2022 Poster
 ![SisTersPGH People's Pride: Swissvale Pride Poster](PeoplesPride.jpeg)
 
-<img src="PeoplesPride.jpeg" width=200/>
-
 #### Canva Color Palette
 ![Canva Color Palette](Canva_palette.png)
 
 #### Adobe Color Palette
-![Adobe_Color_Palette](Adobe_palette.png)
+![Adobe Color Palette](Adobe_palette.png)
 
+### Process
+The first thing I did was download the official SisTersPGH People's Pride 2022: Swissvale Pride poster, then I uploaded it into Canva palette maker and Adobe's palette maker. This produced a total of eight colors to use for the map.
 
+For the basemap color, I opted for a light pink to match the person on the poster. Then, I used the purples and navy to create contrast for the various aspects of the map including roads, bodies of water, labels and borders for countries, states, and municipalities. For parks, I used a darker pink so it would still be visible when compared to the basemap, but is clearly separate from the bodies of water.
 
+High contrast labels are especially important for the smaller, municipal-level streets. Since the event is a parade and festival, there will be several points of interest such as the start and end of the parade route, and festival location. Easily readable street names are vital for participants to know exactly where the event takes place
+
+#### Large extent map
+![Large extent map](Peoples_PGH.png)
+
+#### Medium extent map
+![Medium extent map](Peoples_Swissvale.png)
+
+#### Parade extent map
+![Parade extent map](Peoples_route.png)
+
+### JSON Code
 [
   {
     "elementType": "geometry",
