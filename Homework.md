@@ -3,9 +3,16 @@
 ### Background
 SisTersPGH is a non-profit organization based in Swissvale, Pennsylvania. The organization advocates for equal rights and equal treatment of LGBTQIA+ peoples in southwestern PA. One of their flagship programs, The People's Pride, is an annual celebration of local nonprofits, school districts, unions, and community members, and serves as a people-based competitor to "traditional" corporate-sponsored Pride parades. Until this year, People's Pride was located in Pittsburgh, PA. However, this year the parade is in Swissvale, PA, and marks the first time ever the Borough has a pride parade. 
 
+### SisTersPGH People's Pride 2022 Poster
 ![SisTersPGH People's Pride: Swissvale Pride Poster](PeoplesPride.jpeg)
 
 <img src="PeoplesPride.jpeg" width=200/>
+
+#### Canva Color Palette
+![Canva Color Palette](Canva_palette.png)
+
+#### Adobe Color Palette
+![Adobe_Color_Palette](Adobe_palette.png)
 
 
 
