@@ -225,3 +225,8 @@ High contrast labels are especially important for the smaller, municipal-level s
     ]
   }
 ]
+
+
+[Return Home](https://snizan.github.io/GISPortfolio)
+
+[Homework 2: ](https://snizan.github.io/GISPortfolio/Homework2)
