@@ -1,3 +1,8 @@
+## [Custom Basemap 3/16](https://snizan.github.io/GISPortfolio/InClass316.html)
+## [Insights Cost of College in the U.S. 3/21](https://snizan.github.io/GISPortfolio/InClass321.html)
+## [Insights - Cyclicts Collisions in Ottawa, Canada](https://snizan.github.io/GISPortfolio/InClass323.html)
+
+
 ## Insights 3/21
 <iframe src="https://insights.arcgis.com/#/embed/6bc94147cded4480acffd6b190e0d8e5" width="100%" height="100%" frameborder="0"></iframe>
 
