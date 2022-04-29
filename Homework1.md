@@ -227,4 +227,5 @@ High contrast labels are especially important for the smaller, municipal-level s
 ]
 
 [Back: ArcGIS Insights: Cost of College in the United States](https://snizan.github.io/GISPortfolio/InClass321.html)
+
 [Return Home](https://snizan.github.io/GISPortfolio)
