@@ -10,38 +10,47 @@ The final product will be an interactive map using ArcGIS Insights. This map wil
 
 ### Time and Cost estimates
 
-Task - description
-Hours/cost 
-Data collection: Obtain voter file from the Secretary of State of Pennsylvania
-$20 for file, 15 min / $25
-Data collection: Obtain shapefiles for the 2020 Pennsylvania House of Representatives Districts
-15 min / $25
-Data collection: Obtain shapefiles for the 2022 Pennsylvania House of Representatives Districts
-15 min / $25
-Data collection: obtain voter precinct shapefile for Allegheny County
-15 min / $25
-Clean data: Convert raw Allegheny County voter data from .txt to .csv
-30 min / $50
-Clean data: filter voter history to be only those who participated in any election since the 2002 mid-term primary
-1 hour / $100
-Clean data: Match precincts inside districts 33, 32, 24, 21, 28, 11, and 60. These districts are all adjacent to district 33, and all precincts within the 2022 district will likely be in from the aforementioned districts.
-6 hours / $600
-Clean data: match precincts to the 2022 map
-4 hours / $400
-Clean data: filter data to be only voters in precincts residing in Districts 33, 32, 24, 21, 28, 11, 60 under the 2020 boundaries. 
-3 hours / $300
-Clean data: remove unnecessary columns from the data
-3 hours / $300
-Clean data: Upload 2020 and 2022 district boundaries to ArcGIS Pro
-1 hour / $100
-Clean data: Create feature class/layer for the 7 districts in question (two feature classes, one for 2020, the other for 2022)
-1 hour / $100
-Clean data: Create feature class/layer for just district 33 (two: one for 2020, one for 2022)
-1 hour / $100
-OPTIONAL: Clean data: If precinct data is for the state, create feature class that is Allegheny County ONLY
-30 min / $50
-Clean data: filter data to be Democrat-registered voters only. 
-30 min / $50
+# Data collection:
+-Voter file from the Secretary of State of Pennsylvania $20 for file, 15 min / $25
+
+-Shapefiles for the 2020 Pennsylvania House of Representatives Districts: 15 min / $25
+
+-Shapefiles for the 2022 Pennsylvania House of Representatives Districts 15 min / $25
+
+-Voter precinct shapefile for Allegheny County
+
+Time: 1 Hour
+
+Cost: $120 ($100 for labor, $20 for voter file)
+
+# Clean Data
+-Convert raw Allegheny County voter data from .txt to .csv: 30 min / $50
+
+-Filter voter history to be only those who participated in any election since the 2002 mid-term primary: 1 hour / $100
+
+-Match precincts inside districts 21, 24, 30, 32, 33, and 54. These districts are all adjacent or near to district 33, and all precincts within the 2022 district will likely be in from the aforementioned districts: 6 hours / $600
+
+-Match precincts to the 2022 map: 4 hours / $400
+
+-Filter data to be only voters in precincts residing in Districts 33, 32, 24, 21, 28, 11, 60 under the 2020 boundaries: 3 hours / $300
+
+-Remove unnecessary columns from the data: 3 hours / $300
+
+-Upload 2020 and 2022 district boundaries to ArcGIS Pro: 1 hour / $100
+
+-Create feature class/layer for the 7 districts in question (two feature classes, one for 2020, the other for 2022): 1 hour / $100
+
+-Create feature class/layer for just district 33 (two: one for 2020, one for 2022): 1 hour / $100
+
+-OPTIONAL: If precinct data is for the state, create feature class that is Allegheny County ONLY: 30 min / $50
+
+-Filter data to be Democrat-registered voters only: 30 min / $50
+
+Time: 21.5 hours 
+
+Cost: $2,150
+
+# Analysis
 Analysis: Create an aggregate predictive model to estimate likelihood of voting based on past election participation and available demographic information for an precinct
 2 hours / $200
 
