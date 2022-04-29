@@ -59,12 +59,15 @@ Cost: $200
 
 
 ### Projected project total
-Time: 30.5 hours
+Time: 24.5 hours
 
-Cost: $3250
+Cost: $2,470
 
 ## [Final process log with time and costs](https://docs.google.com/document/d/1lk12yBhMUz5ghLMzOUrQSlcxujabKyksOZXh7Jla0mw/edit?usp=sharing)
 
+## Product: Interactive Map with predictive model
+
+To be uploaded no later than 5/2/2022
 
 [Back: Custom Google Map for SisTersPGH](https://snizan.github.io/GISPortfolio/Homework1)
 
