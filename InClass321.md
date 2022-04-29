@@ -3,8 +3,8 @@
 <iframe src="https://insights.arcgis.com/#/embed/6bc94147cded4480acffd6b190e0d8e5" width="100%" height="1190" frameborder="0"></iframe>
 
 
-[Previous Demo 3/16](https://snizan.github.io/GISPortfolio/InClass316)
+[Previous: Custom Basemap Demo](https://snizan.github.io/GISPortfolio/InClass316)
 
 [Return Home](https://snizan.github.io/GISPortfolio)
 
-[Next Demo 3/23](https://snizan.github.io/GISPortfolio/InClass323)
+[Next: Custom Basemap for SisTersPGH](https://snizan.github.io/GISPortfolio/Homework1)
