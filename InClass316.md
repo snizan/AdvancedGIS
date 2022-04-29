@@ -6,4 +6,4 @@
 
 [Return Home](https://snizan.github.io/GISPortfolio) 
 
-[Next Demo 3/21](https://snizan.github.io/GISPortfolio/InClass321.html)
+[Next: ArcGIS Insights: Cost of College in the United States Demo 3/21](https://snizan.github.io/GISPortfolio/InClass321.html)
